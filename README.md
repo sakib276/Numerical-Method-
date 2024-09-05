@@ -10,3 +10,5 @@ This repository contains -- <br>
  6. Lagrange Interpolation of Polynomial <br>
  7. Least Square Regression <br>
  8. Trapezoidal Rules of Integration <br>
+ 9. Secant Method <br>
+ 
